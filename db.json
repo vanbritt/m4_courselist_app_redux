@@ -1,0 +1,61 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Java",
+      "price": 44500,
+      "description": "Learn Java Online At Your Own Pace. Start Today and Become an Expert in Days. Join Millions of Learners From Around The World Already Learning On Udemy! Lifetime Access",
+      "img": "java.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Node JS",
+      "price": 30000,
+      "description": "Learn NodeJS Online At Your Own Pace. Start Today and Become an Expert in Days. Join Millions of Learners From Around The World Already Learning",
+      "img": "node.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "React JS",
+      "price": 42000,
+      "description": "It's Never Too Late to Learn a New Skill! Learn to Code and Join Our 45+ Million Users. Enjoy Extra Quizzes & Projects and Exclusive Content",
+      "img": "react.png"
+    },
+    {
+      "id": 4,
+      "name": "ANGULAR JS",
+      "price": 70000,
+      "description": "This tutorial is specially designed to help you learn AngularJS as quickly and efficiently as possible. First, you will learn the basics of AngularJS",
+      "img": "angular.png"
+    }
+  ],
+  "enquiries": [
+    {
+      "courseId": "2",
+      "courseName": "Node JS",
+      "name": "Brice Vanec",
+      "email": "tangangbrice@gmail.com",
+      "phone": "696880480",
+      "message": "How much does it cost to learn Node Js?",
+      "id": 1
+    },
+    {
+      "courseId": "1",
+      "courseName": "Java",
+      "name": "Brice Vanec",
+      "email": "tangangbrice@gmail.com",
+      "phone": "696880480",
+      "message": "Is learning java difficult?",
+      "id": 2
+    },
+    {
+      "courseId": "1",
+      "courseName": "Java",
+      "name": "test",
+      "email": "brice.tangang@dembou-consulting.com",
+      "phone": "696880480",
+      "message": "test",
+      "id": 3
+    }
+  ]
+}
